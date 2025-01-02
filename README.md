@@ -84,15 +84,10 @@ The project includes:
 - **[Mohamed Khater](https://github.com/Mo-Khater)** – member 💻
 ---
 
-## 📝 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙌 **Acknowledgments**
 
-- [Kaggle Dataset](https://www.kaggle.com/) for providing the data.
+- [Kaggle Dataset](https://www.kaggle.com/datasets/pritsheta/heart-attack) for providing the data.
 - Open-source libraries and the Python community for continuous support.
 
 ---
